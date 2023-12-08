@@ -1,3 +1,7 @@
 /node_modules
 
 /src/main.css.map
+/.vscode
+out/
+
+forge.config.js
